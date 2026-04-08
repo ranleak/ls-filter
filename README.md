@@ -1,2 +1,2 @@
 # ls-filter
-Compiled extension code for Lightspeed Filter.
+Compiled extension code for Lightspeed Filter. This code represents version 4.2.11.1774968225_0. Some sensitive secrets have been removed from ```main.js``` to protect Lightspeed from cyberattacks (and other bad stuff, etc.). I might be making their spyware visible to the world, but I don't want anything bad to happen to the company or the kids they run software 'for.'
